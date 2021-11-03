@@ -26,7 +26,9 @@ TS提示信息： `Conversion of type 'string' to type 'number' may be a mistake
 
 文档解释：TypeScript only allows type assertions which convert to a more specific or less specific version of a type. This rule prevents “impossible” coercions like:
 限制： 只允许断言类型转化为更具体或更不具体的类型：
+
 个人理解这段话：[A-Z] as A 这可以 [A-Z] => 1 是不可以的 A as [A-Z] 是可以的 1 => [A-Z] 是不可以的 被断言的两个类型需要与从属的关系 并且是相互的
+
 来验证下:
 ```typescript
 type Word = {

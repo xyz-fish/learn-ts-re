@@ -6,4 +6,4 @@
 
 ### 第二天
 
-- 类型断言 [代码](./day-two/assertions)
+- 类型断言 [代码](./day-two)
