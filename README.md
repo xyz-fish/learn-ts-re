@@ -1,2 +1,9 @@
-# 从零开始学习TS
-#### follow cuixiaorui
+## 从零学习TS
+### 第一天
+
+没有按步骤联系代码
+[这里是掘金文章的地址](https://juejin.cn/post/7025933995095359496)
+
+### 第二天
+
+- 类型断言 [代码](./day-two/assertions)
