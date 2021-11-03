@@ -3,3 +3,4 @@
 - [类型断言](./assertions)
 - [文本类型及推理](./literal)
 - [null和undefined相关](./nullAndundefined)
+- [类型收缩](./narrowing)
